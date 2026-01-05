@@ -1,0 +1,10 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/DungeonMaster/bin/Debug/net8.0-windows
+/DungeonMaster/.vs
+/.vs
+/DungeonMaster/My Project
+/DungeonMaster/obj
+/DungeonMaster/Properties
